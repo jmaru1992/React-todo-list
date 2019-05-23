@@ -3,13 +3,6 @@
     margin: auto;
 }
 
-.group-line {
-    max-width: 500px;
-    position: relative;
-    right: 13em;
-    
-}
-
 .tasks {
     list-style-type: none;
     margin-left: 5%;
