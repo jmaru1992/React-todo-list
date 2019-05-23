@@ -1,0 +1,41 @@
+.group-heading {
+    cursor: pointer;
+    margin: auto;
+}
+
+.group-line {
+    max-width: 500px;
+    position: relative;
+    right: 13em;
+    
+}
+
+.tasks {
+    list-style-type: none;
+    margin-left: 5%;
+    padding-top: 2%;
+}
+
+.main-heading {
+    margin: auto;
+}
+
+.task-item {
+    padding-bottom: 20px;
+}
+
+.group-arrow {
+    float: left;
+    padding-right: 2%;
+    padding-top: 5px;
+}
+
+.main-groups {
+    list-style-type: none;
+}
+
+.group-caption {
+    color: grey;
+    margin-left: 5%;
+    font-size: .75em;
+}
