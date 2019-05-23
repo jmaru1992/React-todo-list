@@ -6,3 +6,8 @@ a task list. These are parsed out by group and a grouped task list is then creat
 Tasks can be marked as complete and locked tasks can only be toggle once their
 dependent tasks have been completed.
 
+
+To run use
+
+npm install
+npm start
