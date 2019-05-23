@@ -9,5 +9,5 @@ dependent tasks have been completed.
 
 To run use
 
-npm install
+npm install <br />
 npm start
